@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">TOMHW</string>
+    <string name="label_subtype_generic">%s</string>
+    <string name="label_subtype_en_GB">English (GB)</string>
+    <string name="symbol_smallerthan">&lt;</string>
+    <string name="symbol_greaterthan">&gt;</string>
+    <string name="symbol_and">&amp;</string>
+    <!--<string name="symbol_apos">&apos;</string>-->
+    <string name="symbol_quota">&quot;</string>
+    <string name="symbol_at">\@</string>
+    <string name="symbol_question">\?</string>
+
+
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/relative"
+        android:layout_width="match_parent"
+        android:layout_height="584px" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="788px"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/function2"
+            android:layout_width="135px"
+            android:layout_height="146px"
+            android:background="@drawable/f2"
+            android:textColor="#ffffffff" />
+
+        <Button
+            android:id="@+id/function3"
+            android:layout_width="135px"
+            android:layout_height="146px"
+            android:background="@drawable/f3"
+            android:textColor="#ffffffff" />
+
+        <Button
+            android:id="@+id/function4"
+            android:layout_width="135px"
+            android:layout_height="146px"
+            android:background="@drawable/f4"
+            android:textColor="#ffffffff" />
+
+        <Button
+            android:id="@+id/function5"
+            android:layout_width="135px"
+            android:layout_height="146px"
+            android:background="@drawable/f5"
+            android:textColor="#ffffffff" />
+
+        <Button
+            android:id="@+id/function6"
+            android:layout_width="135px"
+            android:layout_height="146px"
+            android:background="@drawable/f6"
+            android:textColor="#ffffffff" />
+
+        <Button
+            android:id="@+id/function7"
+            android:layout_width="270px"
+            android:layout_height="146px"
+            android:background="@drawable/f7"
+            android:textColor="#ffffffff" />
+
+        <Button
+            android:id="@+id/function8"
+            android:layout_width="135px"
+            android:layout_height="146px"
+            android:background="@drawable/f8"
+            android:textColor="#ffffffff" />
+    </LinearLayout>
+
+</LinearLayout>

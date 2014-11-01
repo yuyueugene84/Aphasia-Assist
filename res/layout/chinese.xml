@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/chinese1"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄅ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese5"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄉ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese38"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ˇ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese39"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ˋ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese15"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄓ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese40"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ˊ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese41"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="˙"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese25"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄚ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese29"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄞ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese33"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄢ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese37"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄦ"
+            android:textColor="@color/ctcolor" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:layout_width="40px"
+            android:layout_height="146px"
+            android:background="#ff000000"
+            android:clickable="false"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese2"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄆ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese6"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄊ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese9"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄍ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese12"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄐ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese16"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄔ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese19"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄗ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese22"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄧ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese26"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄛ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese30"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄟ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese34"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄣ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:layout_width="60px"
+            android:layout_height="146px"
+            android:background="#ff000000"
+            android:clickable="false"
+            android:textColor="@color/ctcolor" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:layout_width="60px"
+            android:layout_height="146px"
+            android:background="#ff000000"
+            android:clickable="false"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese3"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄇ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese7"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄋ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese10"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄎ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese13"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄑ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese17"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄕ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese20"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄘ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese23"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄨ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese27"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄜ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese31"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄠ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese35"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄤ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:layout_width="40px"
+            android:layout_height="146px"
+            android:background="#ff000000"
+            android:clickable="false"
+            android:textColor="@color/ctcolor" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/chinese4"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄈ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese8"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄌ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese11"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄏ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese14"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄒ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese18"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄖ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese21"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄙ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese24"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄩ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese28"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄝ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese32"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c1"
+            android:text="ㄡ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/chinese36"
+            android:layout_width="98px"
+            android:layout_height="146px"
+            android:background="@drawable/c2"
+            android:text="ㄥ"
+            android:textColor="@color/ctcolor" />
+
+        <Button
+            android:id="@+id/function1"
+            android:layout_width="99px"
+            android:layout_height="146px"
+            android:background="@drawable/c3"
+            android:textColor="@color/ctcolor" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/function2"
+            android:layout_width="135px"
+            android:layout_height="146px"
+            android:background="@drawable/f2" />
+
+        <Button
+            android:id="@+id/function3"
+            android:layout_width="135px"
+            android:layout_height="146px"
+            android:background="@drawable/f3" />
+
+        <Button
+            android:id="@+id/function4"
+            android:layout_width="135px"
+            android:layout_height="146px"
+            android:background="@drawable/f4" />
+
+        <Button
+            android:id="@+id/function5"
+            android:layout_width="135px"
+            android:layout_height="146px"
+            android:background="@drawable/f5" />
+
+        <Button
+            android:id="@+id/function6"
+            android:layout_width="135px"
+            android:layout_height="146px"
+            android:background="@drawable/f6" />
+
+        <Button
+            android:id="@+id/function7"
+            android:layout_width="270px"
+            android:layout_height="146px"
+            android:background="@drawable/f7" />
+
+        <Button
+            android:id="@+id/function8"
+            android:layout_width="135px"
+            android:layout_height="146px"
+            android:background="@drawable/f8" />
+    </LinearLayout>
+
+</LinearLayout>
