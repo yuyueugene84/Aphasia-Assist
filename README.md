@@ -1,5 +1,7 @@
 Gotcha-Input
 ============
+This is a group project I participated on back in Spring 2013, it is a class project for NTU CSIE department's 
+Advanced Human Computer Interaction class.
 
 Gotcha is an Android input method designed for people with aphasia. 
 It helps its users to find the term or concept they wish to express by describing it.
