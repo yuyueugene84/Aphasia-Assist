@@ -1,4 +1,4 @@
-Gotcha-Input
+Aphasia Assist
 ============
 This is a group project I participated on back in Spring 2013, it is a class project for NTU CSIE department's 
 Advanced Human Computer Interaction class.
@@ -9,8 +9,8 @@ The user can either by typing or saying other words that relates to the desired 
 and Gotcha will use ConceptNet, a sementic network, to find the term or concept that is relevant
 to all the description words.
 
-Check out how it works:
+###Check out how it works:
 https://www.youtube.com/watch?v=jP_-rEisqXk
 
-Check out the project slide:
+###Check out the project slide:
 http://issuu.com/drhhtang/docs/gotcha_final
